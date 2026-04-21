@@ -17,3 +17,31 @@ This is a Spring Boot project for managing doctor appointments.
 
 ## Author
 Aruchi Karankar
+
+
+
+## 📸 Screenshots
+
+### GET All Records (Part 1)
+![GET1](get 1.png)
+
+### GET All Records (Part 2)
+![GET2](get 2.png)
+
+### GET All Records (Part 3)
+![GET3](get 3.png)
+
+### Update Request (PUT)
+![UPDATE](update.png)
+
+### Updated Records (After PUT)
+![UPDATED](updated result.png)
+
+### Delete Record
+![DELETE](delete.png)
+
+### Final Output
+![FINAL](final output.png)
+
+### Database Output (MySQL)
+![DATABASE](database-final-output.png)
