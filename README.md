@@ -23,13 +23,13 @@ Aruchi Karankar
 ## 📸 Screenshots
 
 ### GET All Records (Part 1)
-![GET1](get 1.png)
+![GET1](get1.png)
 
 ### GET All Records (Part 2)
-![GET2](get 2.png)
+![GET2](get2.png)
 
 ### GET All Records (Part 3)
-![GET3](get 3.png)
+![GET3](get3.png)
 
 ### Update Request (PUT)
 ![UPDATE](update.png)
@@ -41,7 +41,7 @@ Aruchi Karankar
 ![DELETE](delete.png)
 
 ### Final Output
-![FINAL](final output.png)
+![FINAL](finaloutput.png)
 
 ### Database Output (MySQL)
 ![DATABASE](database-final-output.png)
