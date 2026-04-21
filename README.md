@@ -35,7 +35,7 @@ Aruchi Karankar
 ![UPDATE](update.png)
 
 ### Updated Records (After PUT)
-![UPDATED](updated result.png)
+![UPDATED](updatedresult.png)
 
 ### Delete Record
 ![DELETE](delete.png)
