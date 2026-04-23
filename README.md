@@ -36,13 +36,13 @@ It provides CRUD operations and maintains relationships between Doctor, Patient,
 ### 🔹 CRUD Operations  
 
 **Get Appointments**  
-![Get](Screenshots/crud/1 get-all-appointments.png)
+![Get](Screenshots/crud/1-get-all-appointments.png)
 
 **Update Appointment**  
-![Update](Screenshots/crud/2 update-appointment.png)
+![Update](Screenshots/crud/2-update-appointment.png)
 
 **Delete Appointment**  
-![Delete](Screenshots/crud/3 delete-appointment.png)
+![Delete](Screenshots/crud/3-delete-appointment.png)
 
 **Database Table**  
-![DB](Screenshots/crud/4 database-appointment.png)
+![DB](Screenshots/crud/4-database-appointment.png)
