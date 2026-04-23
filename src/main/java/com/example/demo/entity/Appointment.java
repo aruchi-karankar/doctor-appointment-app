@@ -10,12 +10,16 @@ public class Appointment {
     private Long id;
 
     private String date;
-    
-    private String doctorName;
-    
-    private String patientName;
 
-	public Long getId() {     //getters setters
+    @ManyToOne
+    @JoinColumn(name = "doctor_id")
+    private Doctor doctor;
+
+    @ManyToOne
+    @JoinColumn(name = "patient_id")
+    private Patient patient;
+
+	public Long getId() {  // getters setters
 		return id;
 	}
 
@@ -31,24 +35,22 @@ public class Appointment {
 		this.date = date;
 	}
 
-	public String getDoctorName() {
-		return doctorName;
+	public Doctor getDoctor() {
+		return doctor;
 	}
 
-	public void setDoctorName(String doctorName) {
-		this.doctorName = doctorName;
+	public void setDoctor(Doctor doctor) {
+		this.doctor = doctor;
 	}
 
-	public String getPatientName() {
-		return patientName;
+	public Patient getPatient() {
+		return patient;
 	}
 
-	public void setPatientName(String patientName) {
-		this.patientName = patientName;
+	public void setPatient(Patient patient) {
+		this.patient = patient;
 	}
+
    
-	
-  
-    
     
 }

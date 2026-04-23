@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:8080/patients
+url: http://localhost:8080/patients
+method: GET
+body:
+  type: json
+  content: ""
+order: 3125723270784713
