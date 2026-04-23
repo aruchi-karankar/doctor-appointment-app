@@ -47,10 +47,10 @@ Aruchi Karankar
 
 ### 🔹 CRUD Operations (Appointment)  
 
-![Database Appointment](Screenshots/database-appointment.png)  
-![Delete Appointment](Screenshots/delete-appointment.png)  
-![Get All Appointments](Screenshots/get-all-appointments.png)  
-![Update Appointment](Screenshots/update-appointment.png)  
+![Database Appointment](Screenshots/4 database-appointment.png)  
+![Delete Appointment](Screenshots/3 delete-appointment.png)  
+![Get All Appointments](Screenshots/1 get-all-appointments.png)  
+![Update Appointment](Screenshots/2 update-appointment.png)  
 
 ---
 
