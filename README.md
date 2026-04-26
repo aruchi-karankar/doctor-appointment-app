@@ -1,30 +1,29 @@
-🏥 Doctor Appointment System  
+# 🏥 Doctor Appointment System
 
-📌 Description  
-This is a Spring Boot based REST API project for managing doctor appointments.  
-It provides CRUD operations to create, view, update, and delete records, and manages relationships between Doctor, Patient, and Appointment using MySQL database.  
+## 📌 Description
 
+This is a Spring Boot based REST API project for managing doctor appointments.
+It provides CRUD operations to create, view, update, and delete records, and manages relationships between Doctor, Patient, and Appointment using MySQL database.
+
+## 🚀 Features
+
+* ➕ Create Doctor, Patient, Appointment
+* 📄 View All Records
+* ✏️ Update Appointment
+* ❌ Delete Appointment
+* 🔗 Manage relationships (Doctor ↔ Patient via Appointment)
+
+## 🛠️ Technologies Used
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* MySQL
+* Postman
+  
 ---
 
-🚀 Features  
-➕ Create Doctor, Patient, Appointment  
-📄 View All Records  
-✏️ Update Appointment  
-❌ Delete Appointment  
-🔗 Manage relationships (Doctor ↔ Patient via Appointment)  
-
----
-
-🛠️ Technologies Used  
-- Java  
-- Spring Boot  
-- Spring Data JPA  
-- MySQL  
-- Postman  
-
----
-
-👩‍💻 Author  
+# 👩‍💻 Author  
 Aruchi Karankar  
 
 ---
